@@ -26,6 +26,7 @@
 * slugify
 * express-jwt
 * morgan
+<br> And more...
 
 ### Deployment
 * [![Heroku][Heroku.com]][Heroku-url]
